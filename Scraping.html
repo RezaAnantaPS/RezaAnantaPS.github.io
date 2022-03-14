@@ -1,0 +1,45 @@
+<html>
+	<head>
+		<title>Hasil Web Scrapping</title>
+        <!--Import library jquery-->
+        <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+	</head>
+	<body>
+        <style>h1 {text-align: center;}
+            table {align: center;}
+            table {
+                border-collapse: collapse;
+                width: 100%;
+              }
+              
+              th, td {
+                text-align: left;
+                padding: 8px;
+              }
+              
+              tr:nth-child(even) {
+                background-color: #D6EEEE;
+              }
+        </style>
+        <h1>Berita Terkini</h1>
+        <div id="scraping_json"></div>
+	</body>
+    <script type="text/javascript">
+        $(function(){
+            //mengambil data dari file json
+            $.get('scraping.json',function(obj){
+                var str = "<table border=1 align=center>";
+                str +="<tr><td>No</td><td class='tables'>Judul Headline</td><td class='tables'>Kategori</td><td class='tables'>Waktu Publish</td><td class='tables'>Waktu Scraping</td></tr>";
+                $.each(obj,function(n,data){
+                    str +="<tr><td>" + (n+1) + "</td>";
+                    str +="<td>" + data.Judul + "</td>";
+                    str +="<td class='tables'>" + data.Kategori + "</td>";
+                    str +="<td class='tables'>" + data.Waktu_publish + "</td>";
+                    str +="<td class='tables'>" + data.Waktu_scraping + "</td></tr>";
+                });
+                str +="</table>";
+                $('#scraping_json').html(str);
+            });
+        });
+    </script>
+</html>
