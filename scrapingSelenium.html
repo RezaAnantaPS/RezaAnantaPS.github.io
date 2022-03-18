@@ -1,0 +1,46 @@
+<html>
+	<head>
+		<title>Hasil Web Scrapping</title>
+        <!--Import library jquery-->
+        <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+	</head>
+	<body>
+        <style>h1 {text-align: center;}
+            table {align: center;}
+            table {
+                border-collapse: collapse;
+                width: 100%;
+              }
+              
+              th, td {
+                text-align: left;
+                padding: 8px;
+              }
+              
+              tr:nth-child(even) {
+                background-color: #D6EEEE;
+              }
+        </style>
+        <h1>Top 100 Richest People In The World</h1>
+        <div id="scrapingSelenium_json"></div>
+	</body>
+    <script type="text/javascript">
+        $(function(){
+            //mengambil data dari file json
+            $.get('scrapingSelenium.json',function(obj){
+                var str = "<table border=1 align=center>";
+                str +="<tr><td>Rank</td><td class='tables'>Foto</td><td class='tables'>Name</td><td class='tables'>Net Worth</td><td class='tables'>Biodata</td><td class='tables'>Waktu Scraping</td></tr>";
+                $.each(obj,function(n,data){
+                    str +="<td>" + data.Rank + "</td>";
+                    str += '<td><img src="' + data.Image + '"></td>';
+                    str +="<td class='tables'>" + data.Name + "</td>";
+                    str +="<td class='tables'>" + data.Net_Worth + "</td>";
+                    str +="<td class='tables'>" + data.Biodata + "</td>";
+                    str +="<td class='tables'>" + data.Waktu_Scraping + "</td></tr>";
+                });
+                str +="</table>";
+                $('#scrapingSelenium_json').html(str);
+            });
+        });
+    </script>
+</html>

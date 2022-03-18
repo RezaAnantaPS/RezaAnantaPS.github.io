@@ -1,0 +1,778 @@
+[
+      {
+            "Rank": "#1",
+            "Name": "Elon Musk",
+            "Net_Worth": "$199 BILLION",
+            "Biodata": "Elon Musk is a South African-born Canadian-American businessman, inventor and investor. Elon Musk has a net worth of $199 billion. Though he wears many hats and is constantly topping his latest project, he is currently best-known for being as the CEO and CTO of SpaceX, CEO and chief product architect of Tesla Motors and chairman of SolarCity.",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2010/06/Elon-Musk.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:17"
+      },
+      {
+            "Rank": "#2",
+            "Name": "Jeff Bezos",
+            "Net_Worth": "$168 BILLION",
+            "Biodata": "Jeff Bezos is an American philanthropist, businessman and space explorerer. Jeff Bezos is the founder, former CEO, president and chairman of the board of Amazon.com. As of this writing Jeff Bezos has a net worth of $168 billion. He first surpassed Bill Gates in terms of wealth in July 2017. He was the richest person in the world without interruption between October 2017 and January 2021.",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2009/10/bezos-1-e1531776508374.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:17"
+      },
+      {
+            "Rank": "#3",
+            "Name": "Bernard Arnault",
+            "Net_Worth": "$155 BILLION",
+            "Biodata": "Bernard Arnault is a French billionaire who earned his fortune as the chairman and chief executive of the world's largest luxury goods company, LVMH. As of this writing, Bernard Arnault has a net worth of $155 billion dollars. His net worth makes him one of the richest people in the world behind people like Jeff Bezos and Bill Gates.",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2009/09/Bernard-Arnault-2.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:17"
+      },
+      {
+            "Rank": "#4",
+            "Name": "Bill Gates",
+            "Net_Worth": "$122 BILLION",
+            "Biodata": "Bill Gates is an American business magnate, founder and former chairman and CEO of Microsoft, philanthropist, and author. As of this writing, Bill Gates' net worth is $122 billion. Over much of the last 20 years, Bill Gates has been the richest person in the world. He dropped to the second richest person in the world in July 2017 when he was overtaken by Amazon founder Jeff Bezos. Today he is consistently one of the five richest people on the planet.",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2009/09/Bill-Gates.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:17"
+      },
+      {
+            "Rank": "#5",
+            "Name": "Warren Buffett",
+            "Net_Worth": "$117 BILLION",
+            "Biodata": "Warren Buffett is one of the richest people in the world and arguably the best investor of all time. As of this writing, Warren Buffett's net worth is $117 billion.",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2009/09/Warren-Buffett.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:17"
+      },
+      {
+            "Rank": "#6",
+            "Name": "Larry Page",
+            "Net_Worth": "$114 BILLION",
+            "Biodata": "Larry Page is an American billionaire entrepreneur who earned his fortune as the founder of Google. As of this writing, Larry Page has a net worth of $114 billion dollars. Larry Page is most notable for being the co-founder and former CEO of the web giant Alphabet which owns several subsidiary companies, including search engine Google. Larry Page created Google with Sergey Brin while they were both graduate students at Stanford.",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2009/09/larry.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:17"
+      },
+      {
+            "Rank": "#7",
+            "Name": "Sergey Brin",
+            "Net_Worth": "$110 BILLION",
+            "Biodata": "Sergey Brin is a Russian-born American computer scientist and internet entrepreneur who has a net worth of $110 billion dollars. Sergey earned his net worth as the co-founder of Google, which today is known by umbrella parent company Alphabet. He co-founded the company with Larry Page, a classmate at Standford's computer science graduate program.",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2009/09/GettyImages-885129372.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:17"
+      },
+      {
+            "Rank": "#8",
+            "Name": "Steve Ballmer",
+            "Net_Worth": "$101 BILLION",
+            "Biodata": "Steve Ballmer is an American businessman and sports team owner who has a net worth of $101 billion. Steve Ballmer is best known for his association with Microsoft and for owning the Los Angeles Clippers.",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2009/09/Steve-Ballmer-e1591728533953.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:18"
+      },
+      {
+            "Rank": "#9",
+            "Name": "Larry Ellison",
+            "Net_Worth": "$101 BILLION",
+            "Biodata": "Larry Ellison is an American billionaire entrepreneur who has a net worth of $101 billion. Larry Ellison earned his enormous fortune as the founder of software giant Oracle. He also served as CEO until September 2014.",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2009/09/Larry-Ellison.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:18"
+      },
+      {
+            "Rank": "#10",
+            "Name": "Mukesh Ambani",
+            "Net_Worth": "$91 BILLION",
+            "Biodata": "Mukesh Ambani is an Indian businessman who has a net worth of $91 billion. He has earned his net worth through his career at Reliance Industries, a Fortune 500 company, where he is chairman, managing director, and largest shareholder.",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2009/09/Mukesh-Ambani-e1562257538371.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:18"
+      },
+      {
+            "Rank": "#11",
+            "Name": "Fran\u00e7oise Bettencourt-Meyers",
+            "Net_Worth": "$90 BILLION",
+            "Biodata": "Fran\u00e7oise Bettencourt-Meyers net worth: Fran\u00e7oise Bettencourt-Meyers is a French author and heiress who has a net worth of $90 billion. That makes her one",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2017/10/ffb.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:18"
+      },
+      {
+            "Rank": "#12",
+            "Name": "Zhong Shanshan",
+            "Net_Worth": "$78 BILLION",
+            "Biodata": "Zhong Shanshan is a Chinese businessman and entrepreneur who has a net worth of $78 billion. Zhong earned his fortune thanks to the Chinese bottled water company Nongfu Spring and the Beijing Wantai Biological Pharmacy.",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2021/01/zh.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:18"
+      },
+      {
+            "Rank": "#13",
+            "Name": "Gautam Adani",
+            "Net_Worth": "$77 BILLION",
+            "Biodata": "Gautam Adani Net Worth: Gautam Adani is an Indian entrepreneur who has a net worth of $77 billion. A self-made billionaire, Adani now serves as the Chairman",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2014/06/Gautam-Adani-1-e1572484334342.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:18"
+      },
+      {
+            "Rank": "#14",
+            "Name": "Mark Zuckerberg",
+            "Net_Worth": "$75 BILLION",
+            "Biodata": "Mark Zuckerberg is an American technology entrepreneur and philanthropist who has a net worth of $75 billion dollars. As of this writing, that makes Mark one of the richest people on the planet. Out of the top 100 richest people in the world, Mark is the youngest. Out of the top 30, he's the youngest by more than a decade.",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2009/10/Mark-Zuckerberg-1.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:18"
+      },
+      {
+            "Rank": "#15",
+            "Name": "Carlos Slim Helu",
+            "Net_Worth": "$72 BILLION",
+            "Biodata": "Carlos Slim Helu is a Mexican businessman who has a net worth of $72 billion. He is the richest person in Mexico and one of the richest people in the world.",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2009/09/carlos.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:18"
+      },
+      {
+            "Rank": "#16",
+            "Name": "Vladimir Putin",
+            "Net_Worth": "$70 BILLION",
+            "Biodata": "Vladimir Putin net worth: Vladimir Putin is a Russian politician who was born in the Soviet Union and has a net worth of $70 billion dollars. Vladimir Putin is currently serving",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2010/02/Vladimir-Putin.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:18"
+      },
+      {
+            "Rank": "#17",
+            "Name": "Michael Bloomberg",
+            "Net_Worth": "$70 BILLION",
+            "Biodata": "Michael Bloomberg is an American politician and entrepreneur who has a net worth of $70 billion. Michael Bloomberg earned his fortune through his financial news and information services media company Bloomberg LP.",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2020/01/michael-bloomberg-1.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:18"
+      },
+      {
+            "Rank": "#18",
+            "Name": "Amancio Ortega Gaona",
+            "Net_Worth": "$70 BILLION",
+            "Biodata": "Amancio Ortega net worth: Amancio Ortega Gaona is a Spanish fashion executive and entrepreneur who has a net worth of",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2012/03/Amancio-Ortega-Gaona.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:19"
+      },
+      {
+            "Rank": "#19",
+            "Name": "Changpeng Zhao",
+            "Net_Worth": "$68 BILLION",
+            "Biodata": "Changpeng Zhao is a Chinese-Canadian business executive who has a net worth of $68 billion Also known in the crypto world simply as \"CZ,\" Zhao is best known for founding the world's largest cryptocurrency exchange, Binance.",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2022/01/changpeng-zhao.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:19"
+      },
+      {
+            "Rank": "#20",
+            "Name": "Phil Knight",
+            "Net_Worth": "$63 BILLION",
+            "Biodata": "Phil Knight is an American businessman, sports fan and philanthropist who has a net worth of $63 billion. Phil Knight earned his net worth as the founder and largest individual shareholder of Nike Inc.",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2009/12/GettyImages-185373921.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:19"
+      },
+      {
+            "Rank": "#21",
+            "Name": "Charles Koch",
+            "Net_Worth": "$62 BILLION",
+            "Biodata": "Charles Koch Net Worth: Charles Koch is an American businessman who has a net worth of $62 billion dollars. Charles Koch",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2009/09/ck2.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:19"
+      },
+      {
+            "Rank": "#22",
+            "Name": "Julia Flesher Koch",
+            "Net_Worth": "$62 BILLION",
+            "Biodata": "Julia Flesher Koch net worth: Julia Flesher Koch is an American businesswoman who has a net worth of $62 billion. Julia inherited her fortune",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2019/11/julia2.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:19"
+      },
+      {
+            "Rank": "#23",
+            "Name": "Alice Walton",
+            "Net_Worth": "$60 BILLION",
+            "Biodata": "Alice Walton net worth and salary: Alice Walton is the daughter of Walmart founder Sam Walton. Alice Walton has a net worth of",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2020/06/AW.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:19"
+      },
+      {
+            "Rank": "#24",
+            "Name": "Rob Walton",
+            "Net_Worth": "$60 BILLION",
+            "Biodata": "Rob Walton Net Worth: S. Robson Walton, better known as Rob Walton, is an American businessman and the eldest son of the founder of Walmart, Sam Walton. Rob Walton has a net worth of",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2009/09/rw.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:19"
+      },
+      {
+            "Rank": "#25",
+            "Name": "Jim Walton",
+            "Net_Worth": "$60 BILLION",
+            "Biodata": "Jim Walton Net Worth: Jim Walton is an American businessman, and the youngest son of the founder of Walmart (Sam Walton), who has a net worth of",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2009/09/Jim-Walton.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:19"
+      },
+      {
+            "Rank": "#26",
+            "Name": "Jack Ma",
+            "Net_Worth": "$50 BILLION",
+            "Biodata": "Jack Ma Net Worth: Jack Ma is a Chinese businessman and investor who has a net worth of $50 billion. He is best known as the co-founder",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2010/07/Jack-Ma.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:19"
+      },
+      {
+            "Rank": "#27",
+            "Name": "Francois Pinault",
+            "Net_Worth": "$50 BILLION",
+            "Biodata": "Fran\u00e7ois Pinault is a French luxury goods mogul who has a net worth of $50 billion. His net worth has grown astronomically in recent years.",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2013/03/fb.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:19"
+      },
+      {
+            "Rank": "#28",
+            "Name": "Ma Huateng",
+            "Net_Worth": "$48 BILLION",
+            "Biodata": "Pony Ma Huateng net worth: Pony Ma Huateng is a Chinese internet entrepreneur who has a net worth of $48 billion. Ma Huateng, nicknamed \"Pony,\" is the founder, president, chief executive officer, and executive board member of Tencent Holdings, Ltd.",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2012/06/Pony-Ma-1.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:20"
+      },
+      {
+            "Rank": "#29",
+            "Name": "Zhang Yiming",
+            "Net_Worth": "$44 BILLION",
+            "Biodata": "Zhang Yiming net worth: Zhang Yiming is a Chinese businessman and entrepreneur who has a net worth of $44 billion. Zhang Yiming was born",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2019/03/zang2.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:20"
+      },
+      {
+            "Rank": "#30",
+            "Name": "Satoshi Nakamoto",
+            "Net_Worth": "$42 BILLION",
+            "Biodata": "Satoshi Nakamoto is a computer software developer and alleged Bitcoin entrepreneur who has a net worth of $42 billion. Satoshi Nakamoto is the pseudonym used by the person or persons who created the cryptocurrency bitcoin.",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2014/03/sn.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:20"
+      },
+      {
+            "Rank": "#31",
+            "Name": "John Mars",
+            "Net_Worth": "$42 BILLION",
+            "Biodata": "John Mars net worth: John Mars is a Wyoming-based businessman who has a net worth of $42 billion. The son and",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2010/09/John-Mars.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:20"
+      },
+      {
+            "Rank": "#32",
+            "Name": "Jacqueline Mars",
+            "Net_Worth": "$42 BILLION",
+            "Biodata": "Jacqueline Mars net worth: Jacqueline Mars is a businesswoman who has a net worth of $42 billion. Jacqueline Mars is the daughter of Forrest Edward Mars, Sr.",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2010/09/GettyImages-884611364.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:20"
+      },
+      {
+            "Rank": "#33",
+            "Name": "Tadashi Yanai",
+            "Net_Worth": "$42 BILLION",
+            "Biodata": "Tadashi Yanai Net Worth: Tadashi Yanai is a Japanese entrepreneur who has a net worth of $42 billion. A businessman and CEO, Tadashi Yanai",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2010/01/Tadashi-Yanai-e1605632463402.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:20"
+      },
+      {
+            "Rank": "#34",
+            "Name": "Dan Gilbert",
+            "Net_Worth": "$40 BILLION",
+            "Biodata": "Dan Gilbert Net Worth: Dan Gilbert is an American self-made entrepreneur who has a net worth of $40 billion dollars. Dan Gilbert earned his fortune as the founder and CEO of Quicken Loans",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2009/10/Dan-Gilbert.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:20"
+      },
+      {
+            "Rank": "#35",
+            "Name": "Qin Yinglin",
+            "Net_Worth": "$40 BILLION",
+            "Biodata": "Qin Yinglin net worth: Qin Yinglin is a Chinese businessman and pig farmer who has a net worth of $40 billion. He is perhaps",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2020/07/CNW-Man-5.png",
+            "Waktu_Scraping": "18 March 2022 22:40:20"
+      },
+      {
+            "Rank": "#36",
+            "Name": "Li Ka-shing",
+            "Net_Worth": "$34 BILLION",
+            "Biodata": "Li Ka-shing net worth: Li Ka-shing is a Hong Kong-born businessman who has a net worth of $34 billion. Li Ka-shing is the Chairman of Hutchison Whampoa",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2009/09/kashing-e1606175107232.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:20"
+      },
+      {
+            "Rank": "#37",
+            "Name": "Miriam Adelson",
+            "Net_Worth": "$34 BILLION",
+            "Biodata": "Miriam Adelson Net Worth: Miriam Adelson is an Israeli American physician, political donor and casino heiress who has a net worth of $34 billion.",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2021/05/miri.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:20"
+      },
+      {
+            "Rank": "#38",
+            "Name": "Colin Huang",
+            "Net_Worth": "$33 BILLION",
+            "Biodata": "Colin Huang net worth: Colin Huang is a Chinese businessman who has a net worth of $33 billion. He is best known for being",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2020/05/ch.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:21"
+      },
+      {
+            "Rank": "#39",
+            "Name": "Leonardo Del Vecchio",
+            "Net_Worth": "$33 BILLION",
+            "Biodata": "Leonardo Del Vecchio is an Italian billionaire businessman who has a net worth of $33 billion. Leonardo Del Vecchio is best known as the founder and chairman of Luxottica, the biggest producer and retailer of glasses and frames in the world.",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2013/03/leo.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:21"
+      },
+      {
+            "Rank": "#40",
+            "Name": "David Thomson",
+            "Net_Worth": "$32 BILLION",
+            "Biodata": "David Thomson net worth: David Thomson, the 3rd Baron Thomson of Fleet, is a Canadian businessman who has a net worth of",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2009/09/david.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:21"
+      },
+      {
+            "Rank": "#41",
+            "Name": "Len Blavatnik",
+            "Net_Worth": "$32 BILLION",
+            "Biodata": "Len Blavatnik net worth: Len Blavatnik is a Ukrainian-American businessman who has a net worth of $32 billion. Len Blavatnik earned his net worth",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2010/09/GettyImages-463049908.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:21"
+      },
+      {
+            "Rank": "#42",
+            "Name": "Gina Rinehart",
+            "Net_Worth": "$31 BILLION",
+            "Biodata": "Gina Rinehart Net Worth: Gina Rinehart is an Australian mining heiress who has a net worth of $31 billion. She is probably best known",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2011/07/gina.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:21"
+      },
+      {
+            "Rank": "#43",
+            "Name": "Maha Vajiralongkorn",
+            "Net_Worth": "$30 BILLION",
+            "Biodata": "Maha Vajiralongkorn net worth: Maha Vajiralongkorn is the crown prince of Thailand and has a net worth of $30 billion. Maha Vajiralongkorn was born",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2016/11/Maha-Vajiralongkorn.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:21"
+      },
+      {
+            "Rank": "#44",
+            "Name": "Sultan of Brunei",
+            "Net_Worth": "$30 BILLION",
+            "Biodata": "Sultan of Brunei net worth: The Sultan of Brunei, also known as Hassanai Bolkiah Mu'izzaddin Waddaulah, has a net worth of $30 billion. Born on July 15, 1946",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2009/11/Sultan-of-Brunei-e1600998270373.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:21"
+      },
+      {
+            "Rank": "#45",
+            "Name": "Sheikh Mansour bin Zayed Al Nahyan",
+            "Net_Worth": "$30 BILLION",
+            "Biodata": "Sheikh Mansour net worth: Sheikh Mansour bin Zayed Al Nahyan is a United Arab Emirates politician and businessman who has a net worth of",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2018/04/Sheikh-Mansour.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:21"
+      },
+      {
+            "Rank": "#46",
+            "Name": "Masayoshi Son",
+            "Net_Worth": "$30 BILLION",
+            "Biodata": "Masayoshi Son is a billionaire Japanese tech entrepreneur, investor, and philanthropist who has a net worth of $30 billion. Masayoshi Son is the founder and CEO of the multinational holding company SoftBank.",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2009/12/Masayoshi-Son.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:21"
+      },
+      {
+            "Rank": "#47",
+            "Name": "Vladimir Potanin",
+            "Net_Worth": "$30 BILLION",
+            "Biodata": "Vladimir Potanin net worth: Vladimir Potanin is a businessman who has a net worth of $30 billion dollars. That makes Vladimir one of the richest people in Russia",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2012/07/GettyImages-51016133-e1584233800309.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:22"
+      },
+      {
+            "Rank": "#48",
+            "Name": "Michael Dell",
+            "Net_Worth": "$30 BILLION",
+            "Biodata": "Michael Dell net worth and salary: Michael Dell is an American business executive and technology entrepreneur who has a net worth of",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2009/09/Michael-Dell-1.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:22"
+      },
+      {
+            "Rank": "#49",
+            "Name": "Eric Schmidt",
+            "Net_Worth": "$28 BILLION",
+            "Biodata": "Eric Schmidt is an American businessman and philanthropist who has a net worth of $28 billion. Eric Schmidt is most notable for being the former CEO of Google.",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2010/03/Eric-Schmidt.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:22"
+      },
+      {
+            "Rank": "#50",
+            "Name": "Giovanni Ferrero",
+            "Net_Worth": "$28 BILLION",
+            "Biodata": "Giovanni Ferrero net worth: Giovanni Ferrero is an Italian businessman who has a net worth of",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2015/06/GettyImages-472125500-e1578371087716.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:22"
+      },
+      {
+            "Rank": "#51",
+            "Name": "Ken Griffin",
+            "Net_Worth": "$28 BILLION",
+            "Biodata": "Ken Griffin is an American entrepreneur who has a net worth of $28 billion dollars. Griffin is the CEO of Citadel, a hedge fund with $32 billion in assets under management.",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2013/01/kg.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:22"
+      },
+      {
+            "Rank": "#52",
+            "Name": "Abigail Johnson",
+            "Net_Worth": "$28 BILLION",
+            "Biodata": "Abigail Johnson is an American businesswoman who has a net worth of $28 billion. Abigail Johnson is the Chairman, CEO and President of the company started by her father, Fidelity Investments.",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2010/09/aj.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:22"
+      },
+      {
+            "Rank": "#53",
+            "Name": "William Ding",
+            "Net_Worth": "$26 BILLION",
+            "Biodata": "William Ding net worth: William Ding is a Chinese entrepreneur who has a net worth is $26 billion. Born in Ningbo",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2012/07/GettyImages-51406917-e1526845755451.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:22"
+      },
+      {
+            "Rank": "#54",
+            "Name": "Shiv Nadar",
+            "Net_Worth": "$25.9 BILLION",
+            "Biodata": "Shiv Nadar net worth: Shiv Nadar is an Indian tech tycoon who has a net worth of $25 billion. Shiv Nadar is the founder and chairman of HCL",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2013/03/GettyImages-55314268.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:22"
+      },
+      {
+            "Rank": "#55",
+            "Name": "Stefan Persson",
+            "Net_Worth": "$25 BILLION",
+            "Biodata": "Stefan Persson net worth: Stefan Persson is a Swedish business magnate who has a net worth of $25 billion dollars. Stefan Persson has accumulated",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2009/09/sp.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:22"
+      },
+      {
+            "Rank": "#56",
+            "Name": "Eric Yuan",
+            "Net_Worth": "$25 BILLION",
+            "Biodata": "Eric Yuan net worth: Eric Yuan is a Chinese American businessman and entrepreneur who has a net worth of $25 billion. Eric Yuan was born in China",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2019/05/Eric-Yuan.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:22"
+      },
+      {
+            "Rank": "#57",
+            "Name": "Joseph Safra",
+            "Net_Worth": "$25 BILLION",
+            "Biodata": "Joseph Safra net worth: Joseph Safra is a Brazilian businessman who has a net worth is $18 billion. That makes him one of the richest people in Brazil.",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2012/07/Joseph-Safra.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:23"
+      },
+      {
+            "Rank": "#58",
+            "Name": "Gerard Wertheimer",
+            "Net_Worth": "$25 BILLION",
+            "Biodata": "Gerard Wertheimer net worth: Gerard Wertheimer is a French businessman who has a net worth of $25 billion. He is best known for owning",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2020/05/gw.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:23"
+      },
+      {
+            "Rank": "#60",
+            "Name": "Vladimir Lisin",
+            "Net_Worth": "$24 BILLION",
+            "Biodata": "Vladimir Lisin net worth: Vladimir Lisin is a Russian steel tycoon who has a net worth of",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2010/02/vl.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:23"
+      },
+      {
+            "Rank": "#61",
+            "Name": "Pierre Omidyar",
+            "Net_Worth": "$24 BILLION",
+            "Biodata": "Pierre Omidyar net worth: Pierre Omidyar is a well known Iranian-American entrepreneur and philanthropist who has a net worth of $24 billion. Pierre Omidyar is the founder",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2010/05/Pierre-Omidyar.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:23"
+      },
+      {
+            "Rank": "#62",
+            "Name": "Takemitsu Takizaki",
+            "Net_Worth": "$24 BILLION",
+            "Biodata": "Takemitsu Takizaki net worth: Takemitsu Takizaki is a Japanese billionaire who has a net worth of $24 billion. Takemitsu Takizaki is the founder",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2013/03/CNW-Man-7.png",
+            "Waktu_Scraping": "18 March 2022 22:40:23"
+      },
+      {
+            "Rank": "#63",
+            "Name": "Leonid Mikhelson",
+            "Net_Worth": "$24 BILLION",
+            "Biodata": "Leonid Mikhelson net worth: Leonid Mikhelson is a Russian businessman who has a net worth of $24 billion dollars which makes him one of the richest people",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2012/07/GettyImages-888661984.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:23"
+      },
+      {
+            "Rank": "#64",
+            "Name": "Yang Huiyan",
+            "Net_Worth": "$24 BILLION",
+            "Biodata": "Yang Huiyan net worth: Yang Huiyan is the major shareholder of Country Garden Holdings and one of the wealthiest people in Mainland China. Yang Huiyan has a net worth of",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2013/03/CNW-Woman-3.png",
+            "Waktu_Scraping": "18 March 2022 22:40:23"
+      },
+      {
+            "Rank": "#65",
+            "Name": "Carl Icahn",
+            "Net_Worth": "$24 BILLION",
+            "Biodata": "Carl Icahn is an American businessman, investor, and activist shareholder who has a net worth of $24 billion. Carl Icahn is best known as the founder and controlling shareholder of the holding company Icahn Enterprises in New York City.",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2010/08/Carl-Icahn.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:23"
+      },
+      {
+            "Rank": "#66",
+            "Name": "He Xiangjian",
+            "Net_Worth": "$24 BILLION",
+            "Biodata": "He Xiangjian net worth: He Xiangjian is the co-founder of Midea Group who has a net worth of $24 billion. He Xiangjian owns Midea, which is one of",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2013/03/CNW-Man-6.png",
+            "Waktu_Scraping": "18 March 2022 22:40:23"
+      },
+      {
+            "Rank": "#67",
+            "Name": "Forrest Mars Jr",
+            "Net_Worth": "$23.4 BILLION",
+            "Biodata": "Forrest Mars, Jr net worth: Forrest Mars, Jr. is the eldest son of Forrest Mars Sr. and grandson of Frank C. Mars, founders of the American candy",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2011/01/mars.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:23"
+      },
+      {
+            "Rank": "#68",
+            "Name": "Jorge Paulo Lemann",
+            "Net_Worth": "$23 BILLION",
+            "Biodata": "Jorge Paulo Lemann Net Worth: Jorge Paulo Lemann is a Swiss-Brazilian banker who has a net worth of",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2010/08/GettyImages-480087442-e1551974594537.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:24"
+      },
+      {
+            "Rank": "#69",
+            "Name": "Sam Bankman-Fried",
+            "Net_Worth": "$22 BILLION",
+            "Biodata": "Sam Bankman-Fried is an American entrepreneur and CEO with a net worth of $22 billion. He is best known for his work in the world of cryptocurrency, having founded the cryptocurrency exchange, FTX.",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2021/12/Sam-Bankman-Fried.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:24"
+      },
+      {
+            "Rank": "#70",
+            "Name": "James Simons",
+            "Net_Worth": "$22 BILLION",
+            "Biodata": "James Simons net worth: James Simons is an American mathematician, hedge fund manager, and philanthropist who has a net worth of $22 billion. James Simons",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2010/08/James-Simons-e1492389262583.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:24"
+      },
+      {
+            "Rank": "#71",
+            "Name": "James Dyson",
+            "Net_Worth": "$22 BILLION",
+            "Biodata": "Sir James Dyson is a British inventor, designer, farmer and entrepreneur who has a net worth of $22 billion. He is best known for founding the technology company Dyson",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2012/08/James-Dyson.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:24"
+      },
+      {
+            "Rank": "#72",
+            "Name": "Wang Wei",
+            "Net_Worth": "$22 BILLION",
+            "Biodata": "Wang Wei Net Worth: Wang Wei is a Chinese transportation and logistics entrepreneur who has a net worth of",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2014/02/GettyImages-83843772.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:24"
+      },
+      {
+            "Rank": "#73",
+            "Name": "Dieter Schwarz",
+            "Net_Worth": "$22 BILLION",
+            "Biodata": "Dieter Schwarz net worth: Dieter Schwarz is a German entrepreneur who has a net worth of $22 billion dollars. Dieter Schwarz",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2010/07/CNW-Man-5.png",
+            "Waktu_Scraping": "18 March 2022 22:40:24"
+      },
+      {
+            "Rank": "#74",
+            "Name": "Dustin Moskovitz",
+            "Net_Worth": "$21 BILLION",
+            "Biodata": "Dustin Moskovitz net worth: Dustin Moskovitz is an American internet entrepreneur who has a net worth of",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2020/01/dustin.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:24"
+      },
+      {
+            "Rank": "#75",
+            "Name": "Leonard Lauder",
+            "Net_Worth": "$21 BILLION",
+            "Biodata": "Leonard Lauder net worth: Leonard Lauder the chairman emeritus of cosmetics brand Est\u00e9e Lauder, has a net worth of $21 billion. In addition to his net worth",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2012/06/Leonard-Lauder.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:24"
+      },
+      {
+            "Rank": "#76",
+            "Name": "Vagit Alekperov",
+            "Net_Worth": "$21 BILLION",
+            "Biodata": "Vagit Alekperov net worth: Vagit Alekperov is a businessman who has a net worth of $21 billion dollars which makes him one of the richest people in Russia",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2012/07/GettyImages-163288156.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:24"
+      },
+      {
+            "Rank": "#77",
+            "Name": "Alain Wertheimer",
+            "Net_Worth": "$21 BILLION",
+            "Biodata": "Alain Wertheimer net worth: Alain Wertheimer is a French businessman who has a net worth of $21 billion. Alain Wertheimer was born",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2015/09/Alain-Wertheimer.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:24"
+      },
+      {
+            "Rank": "#78",
+            "Name": "Zhang Zhidong",
+            "Net_Worth": "$21 BILLION",
+            "Biodata": "Zhang Zhidong Net Worth: Zhang Zhidong is a Chinese internet entrepreneur who has a net worth of $21 billion. Zhang Zhidong entered the list of China",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2018/06/CNW-Man-10.png",
+            "Waktu_Scraping": "18 March 2022 22:40:25"
+      },
+      {
+            "Rank": "#79",
+            "Name": "John Menard",
+            "Net_Worth": "$20 BILLION",
+            "Biodata": "John Menard, Jr. Net Worth: John R. Menard, Jr. is an American entrepreneur and billionaire who a net worth of $20 billion. He is the founder and owner",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2010/11/John-Menard.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:25"
+      },
+      {
+            "Rank": "#80",
+            "Name": "Prince Al Waleed Bin Talal Alsaud",
+            "Net_Worth": "$20 BILLION",
+            "Biodata": "Prince Alwaleed Bin Talal Alsaud Net Worth: Prince Alwaleed Bin Talal Alsaud is a Saudi business magnate, investor and philanthropist who has a net worth of",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2009/09/prince.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:25"
+      },
+      {
+            "Rank": "#81",
+            "Name": "Salman bin Abdulaziz Al Saud",
+            "Net_Worth": "$20 BILLION",
+            "Biodata": "Salman bin Abdulaziz Al Saud is the current King of Saudi Arabia. As of this writing he has a net worth of $20 billion.",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2015/01/GettyImages-79011061.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:25"
+      },
+      {
+            "Rank": "#82",
+            "Name": "Lee Shau Kee",
+            "Net_Worth": "$20 BILLION",
+            "Biodata": "Lee Shau Kee Net Worth: Lee Shau Kee is a real estate mogul from Hong Kong who has a net worth of",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2013/09/CNW-Man.png",
+            "Waktu_Scraping": "18 March 2022 22:40:25"
+      },
+      {
+            "Rank": "#83",
+            "Name": "Elaine Marshall",
+            "Net_Worth": "$20 BILLION",
+            "Biodata": "Elaine Marshall net worth: Elaine Tettemer Marshall is an American billionaire who has a net worth of $20 billion. She is a member of the Board of Koch Industries",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2013/08/CNW-Woman-2.png",
+            "Waktu_Scraping": "18 March 2022 22:40:25"
+      },
+      {
+            "Rank": "#84",
+            "Name": "Zhong Huijuan",
+            "Net_Worth": "$20 BILLION",
+            "Biodata": "Zhong Huijuan net worth: Zhong Huijuan is a Chinese businesswoman who has a net worth of $20 billion. She is best known for being",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2020/07/CNW-Woman-1.png",
+            "Waktu_Scraping": "18 March 2022 22:40:25"
+      },
+      {
+            "Rank": "#85",
+            "Name": "Sir Evelyn De Rothschild",
+            "Net_Worth": "$20 BILLION",
+            "Biodata": "Sir Evelyn De Rothschild net worth: Sir Evelyn De Rothschild is a British financier who has a net worth of $20 billion.",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2010/07/sir.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:25"
+      },
+      {
+            "Rank": "#86",
+            "Name": "Alexey Mordashov",
+            "Net_Worth": "$20 BILLION",
+            "Biodata": "Alexey Mordashov net worth: Alexey Mordashov is a businessman who has a net worth of $20 billion dollars which makes him one of the richest people in Russia",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2012/07/Alexey-Mordashov.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:25"
+      },
+      {
+            "Rank": "#87",
+            "Name": "Gennady Timchenko",
+            "Net_Worth": "$20 BILLION",
+            "Biodata": "Gennady Timchenko net worth Gennady Timchenko is a businessman who has a net worth of $20 billion dollars which makes him one of the richest people in Russia",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2012/07/GettyImages-687259598.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:25"
+      },
+      {
+            "Rank": "#88",
+            "Name": "Rupert Murdoch",
+            "Net_Worth": "$20 BILLION",
+            "Biodata": "Rupert Murdoch net worth: Rupert Murdoch is an Australian media mogul who earned his fortune as the founder of News Corp. Rupert Murdoch has a net worth of",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2020/10/rupert-murdoch.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:26"
+      },
+      {
+            "Rank": "#90",
+            "Name": "Eduardo Saverin",
+            "Net_Worth": "$19 BILLION",
+            "Biodata": "Eduardo Saverin is a Brazilian-born internet entrepreneur who has a net worth of $19 billion. Eduardo Saverin is famous for being one of the co-founders of Facebook.",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2019/12/eduardo.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:26"
+      },
+      {
+            "Rank": "#91",
+            "Name": "Petr Kellner",
+            "Net_Worth": "$19 BILLION",
+            "Biodata": "Petr Kellner net worth: Petr Kellner was a Czech businessman who has a net worth of $19 billion dollars at the time of his death in 2021. He was the richest person",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2009/11/CNW-Man-1.png",
+            "Waktu_Scraping": "18 March 2022 22:40:26"
+      },
+      {
+            "Rank": "#92",
+            "Name": "Laurene Powell Jobs",
+            "Net_Worth": "$19 BILLION",
+            "Biodata": "Laurene Powell Jobs is an American billionaire who has a net worth of $19 billion. Laurene Powell Jobs is probably best known for being the widow of Apple founder Steve Jobs.",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2012/05/Laurene-Powell-Jobs-1.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:26"
+      },
+      {
+            "Rank": "#93",
+            "Name": "James Ratcliffe",
+            "Net_Worth": "$19 BILLION",
+            "Biodata": "James Ratcliffe Net Worth: James Ratcliffe is a British chemical engineer turned financier and industrialist who has a net worth of",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2014/04/jim.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:26"
+      },
+      {
+            "Rank": "#94",
+            "Name": "Pallonji Mistry",
+            "Net_Worth": "$19 BILLION",
+            "Biodata": "Pallonji Mistry net worth: Pallonji Mistry is an Irish Indian billionaire who has a net worth of $19 billion dollars which",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2012/07/GettyImages-594746818.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:26"
+      },
+      {
+            "Rank": "#95",
+            "Name": "Susanne Klatten",
+            "Net_Worth": "$19 BILLION",
+            "Biodata": "Susanne Klatten net worth: Susanne Klatten is a German businesswoman who has a net worth of $19 billion dollars. Susanne Klatten",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2009/09/Susanne-Klatten-e1610573740700.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:26"
+      },
+      {
+            "Rank": "#96",
+            "Name": "Stephen Schwarzman",
+            "Net_Worth": "$18.4 BILLION",
+            "Biodata": "Stephen Schwarzman net worth and salary: Stephen Schwarzman is an American businessman who has a net worth of",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2012/11/Stephen-Schwarzman.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:26"
+      },
+      {
+            "Rank": "#98",
+            "Name": "David & Simon Reuben",
+            "Net_Worth": "$18 BILLION",
+            "Biodata": "David & Simon Reuben net worth: David & Simon Reuben are British businessmen and philanthropists who have a net worth of",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2018/06/CNW-Man-1.png",
+            "Waktu_Scraping": "18 March 2022 22:40:26"
+      },
+      {
+            "Rank": "#99",
+            "Name": "Lakshmi Mittal",
+            "Net_Worth": "$18 BILLION",
+            "Biodata": "Lakshmi Mittal net worth: Lakshmi Mittal is chairman and CEO of the world's largest steel making company ArcelorMittal who has a net worth of",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2009/09/Lakshmi-Mittal-1.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:27"
+      },
+      {
+            "Rank": "#100",
+            "Name": "Sheikh Khalifa Bin Zayed Al Nahyan",
+            "Net_Worth": "$18 BILLION",
+            "Biodata": "Sheikh Khalifa Bin Zayed Al Nahyan Net Worth: Sheikh Khalifa Bin Zayed Al Nahyan is the President of the United Arab Emirates",
+            "Image": "https://vz.cnwimg.com/thumb-200x150/wp-content/uploads/2009/11/Sheikh-Khalifa-Bin-Zayed-Al-Nahayan.jpg",
+            "Waktu_Scraping": "18 March 2022 22:40:27"
+      }
+]
